@@ -63,7 +63,7 @@ def multichannel_model(length,vocab_size):
 
 	#Summarize
 	print(model.summary())
-	plot_model(model,show_shapes=True,to_file = 'multichannel.png')
+	#plot_model(model,show_shapes=True,to_file = 'multichannel.png')
 
 	return model
 
