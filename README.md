@@ -8,7 +8,7 @@ The model uses multiple parallel convolutional neural networks that read the sou
 
 Link to the paper- http://www.people.fas.harvard.edu/~yoonkim/data/sent-cnn.pdf
 
-Used the implementation of models in this paper for Sentiment Analysis on IMDB movie reviews dataset.
+Used the implementation of models in this paper for Sentiment Analysis on movie reviews dataset.
 
 ## Dataset
 
