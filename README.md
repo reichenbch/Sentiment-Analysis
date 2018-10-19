@@ -7,3 +7,9 @@ The model uses multiple parallel convolutional neural networks that read the sou
 ## Convolutional Neural Network for Sentence Classification
 
 Link to the paper- http://www.people.fas.harvard.edu/~yoonkim/data/sent-cnn.pdf
+
+Used the implementation of models in this paper for Sentiment Analysis on IMDB movie reviews dataset.
+
+## Dataset
+
+Link to the dataset - https://www.cs.cornell.edu/people/pabo/movie-review-data/review_polarity.tar.gz
